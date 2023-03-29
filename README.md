@@ -1,5 +1,6 @@
 # SENG207-PROGRAMMING-FOR-ENGINEERS-MATERIALS
 
+![Untitled](https://user-images.githubusercontent.com/102630199/228612369-a0d7ad2b-66e8-4143-9721-0ecc1a09ccd6.png)
 
 - ####  SENG 207 – Programming for Engineers is intended to introduce the fundamental concepts in computer programming to undergraduate engineering students. 
 
